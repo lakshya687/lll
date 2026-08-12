@@ -1,0 +1,10 @@
+{
+  "app": {
+    "name": "lll",
+    "framework": "nextjs",
+    "httpPort": 3000,
+    "build": {
+      "command": "next build"
+    }
+  }
+}
